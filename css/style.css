@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed|Supermercado+One');
+
+body {
+    background-color: #106022;
+    font-family: 'Supermercado One', cursive;
+    color: #FFF;
+}
+
+h1 {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+a {
+	color: #FFF;
+}
